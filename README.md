@@ -18,10 +18,11 @@
 # RandomPasswordGenerator
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/72680045/103018817-d0184200-456b-11eb-8fd2-11893c3173cd.PNG" alt="EncrypC Stable">
-  <img src="https://user-images.githubusercontent.com/72680045/103018827-d1e20580-456b-11eb-8503-173356c1cde9.PNG" alt="EncrypC Working">
+	<img src="https://user-images.githubusercontent.com/94180952/199300542-271a385b-f41b-4d2b-bd08-578ad9c5c0b6.png" alt="RandomPasswordGeneratorStable">
+  <img src="https://user-images.githubusercontent.com/94180952/199300553-f649cfcd-f556-4817-b1f4-af35c502645b.png" alt="RandomPasswordGenerator Working">
 </p>
 
 ## Tech Stack Used:
 * Python3
 * Tkinter for GUI (Inbuilt)
+
