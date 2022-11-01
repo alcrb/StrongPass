@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72680045/102007940-19d68080-3d53-11eb-8518-d681586666e6.png">
+  <img src="https://user-images.githubusercontent.com/94180952/199301207-dcf7b756-5eb2-4113-9123-4299fd51a3c3.png">
   <h2 align="center" style="margin-top: -4px !important;"># 🔑 Random Password Generator using Python. </h2>
   <p align="center">
     <a href="https://github.com/alcrb/RandomPasswordGenerator/blob/master/LICENSE">
@@ -25,4 +25,3 @@
 ## Tech Stack Used:
 * Python3
 * Tkinter for GUI (Inbuilt)
-
