@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/github/license/alcrb/RandomPasswordGenerator?color=informational">
     </a>
     <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/python-v3.8-informational">
+    	<img src="https://img.shields.io/badge/python-v3.11-informational">
     </a>
     <a href="https://github.com/alcrb/RandomPasswordGenerator">
     	<img src="https://img.shields.io/github/v/release/alcrb/RandomPasswordGenerator">
