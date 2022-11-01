@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94180952/199301207-dcf7b756-5eb2-4113-9123-4299fd51a3c3.png">
-  <h2 align="center" style="margin-top: -4px !important;"># 🔒 Random Password Generator using Python. </h2>
+  <h2 align="center" style="margin-top: -4px !important;">🔒 Random Password Generator using Python</h2>
   <p align="center">
     <a href="https://github.com/alcrb/RandomPasswordGenerator/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/alcrb/RandomPasswordGenerator?color=informational">
