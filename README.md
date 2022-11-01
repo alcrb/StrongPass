@@ -18,10 +18,11 @@
 # StrongPass
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/94180952/199300542-271a385b-f41b-4d2b-bd08-578ad9c5c0b6.png" alt="RandomPasswordGeneratorStable">
-  <img src="https://user-images.githubusercontent.com/94180952/199300553-f649cfcd-f556-4817-b1f4-af35c502645b.png" alt="RandomPasswordGenerator Working">
+	<img src="https://user-images.githubusercontent.com/94180952/199311644-21e15149-2186-40f0-ac43-cc1540d2b645.png" alt="RandomPasswordGeneratorStable">
+  <img src="https://user-images.githubusercontent.com/94180952/199311647-0390aa4f-b36f-482e-9b28-c4fa5392b4b2.png" alt="RandomPasswordGenerator Working">
 </p>
 
 ## Tech Stack Used:
 * Python3
 * Tkinter for GUI (Inbuilt)
+
