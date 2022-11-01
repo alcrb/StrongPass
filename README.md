@@ -1,3 +1,3 @@
----
-Random Password Generator with a gui for my personal usage , it's my first project.
----
+# [Random Password Generator with Python] + GUI
+
+My first project , i just wanna create my own random password generator.
