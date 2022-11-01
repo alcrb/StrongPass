@@ -15,7 +15,7 @@
   </p>
 </p>
 
-# RandomPasswordGenerator
+# StrongPass
 
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/94180952/199300542-271a385b-f41b-4d2b-bd08-578ad9c5c0b6.png" alt="RandomPasswordGeneratorStable">
