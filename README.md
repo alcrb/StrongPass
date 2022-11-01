@@ -1,1 +1,3 @@
-# Random Password Generator with a gui for personal usage
+---
+Random Password Generator with a gui for my personal usage , it's my first project.
+---
